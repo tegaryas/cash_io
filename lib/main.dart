@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:ikopi_baru/Screens/HomePage.dart';
+import 'package:ikopi_baru/Screens/HomePageCadangan.dart';
 
 void main() {
   runApp(MyApp());
